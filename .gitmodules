@@ -1,0 +1,3 @@
+[submodule "msg2eml.js"]
+	path = msg2eml.js
+	url = https://github.com/master131/msg2eml.js.git
